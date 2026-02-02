@@ -13,7 +13,7 @@ const projects = [
     image: ChatApp,
     description:
       "Real-time chat using Socket.io, room-based messaging, and authentication.",
-    link: "net50.cc/home",
+    link: "",
     target: "_blank",
   },
   {

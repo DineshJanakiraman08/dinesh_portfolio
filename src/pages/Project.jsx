@@ -29,7 +29,7 @@ const projects = [
     image: HealthcareDashboard,
     description:
       "Make a Healthcare Dashboard based on Frontend Asspect and it is visually appeling",
-    link: "net50.cc/home",
+    link: "",
     target: "_blank",
   },
   {

@@ -13,7 +13,7 @@ const projects = [
     image: ChatApp,
     description:
       "Real-time chat using Socket.io, room-based messaging, and authentication.",
-    link: "",
+    link: "net50.cc/home",
     target: "_blank",
   },
   {
@@ -21,7 +21,7 @@ const projects = [
     image: Crowdfunding,
     description:
       "Real-time cause creattion to support NGO for Cause creation and integrate Stripe payment method to transtion transaction the donor did and donor will receive mail regarding the donation did.",
-    link: "",
+    link: "net50.cc/home",
     target: "_blank",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     image: HealthcareDashboard,
     description:
       "Make a Healthcare Dashboard based on Frontend Asspect and it is visually appeling",
-    link: "",
+    link: "net50.cc/home",
     target: "_blank",
   },
   {

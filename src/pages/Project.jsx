@@ -21,7 +21,7 @@ const projects = [
     image: Crowdfunding,
     description:
       "Real-time cause creattion to support NGO for Cause creation and integrate Stripe payment method to transtion transaction the donor did and donor will receive mail regarding the donation did.",
-    link: "",
+    link: "https://www.linkedin.com/in/dinesh-j-328497235/",
     target: "_blank",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     image: HealthcareDashboard,
     description:
       "Make a Healthcare Dashboard based on Frontend Asspect and it is visually appeling",
-    link: "",
+    link: "https://www.linkedin.com/in/dinesh-j-328497235/",
     target: "_blank",
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     image: Netflix,
     description:
       "A Netflix UI clone with TMDB API integration and dynamic content loading.",
-    link: "",
+    link: "https://www.linkedin.com/in/dinesh-j-328497235/",
     target: "_blank",
   },
   {
